@@ -1,0 +1,28 @@
+Reflection 1
+First reflection on the course.  So far, we learned about Diff (FC in
+windows) command to compare two files. By using the diff command I was
+able to see the lines that changed between the two files.  It is
+important to keep the length of the lines between 80 to 120 characters.
+
+Reflection 2
+It will help track down the defects that may be introduced during one
+of the builds.  Furthermore, it makes reverting back to an earlier
+working stage much easier.
+
+Reflection 3
+Pros: Manually choosing when to commit makes the commit more meaningful
+Cons; Manually choosing when to comint introduces the risk of not commiting on time.
+
+Reflection 4
+Why does Git allows multiple file commits?
+
+Reflection 5
+Git log can be used to see the history of commits with usefull messages.
+Git diff can be used to compare to commits
+
+Reflection 6
+Git, version control in general, would make a programmer more confident because a prior version without defect could be loaded giving the developer a way to find defects. 
+
+Reflection 7
+I want to try using git to manage all of my projects
+
