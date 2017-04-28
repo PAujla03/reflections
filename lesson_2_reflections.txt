@@ -3,3 +3,13 @@ When you initialize a repository it introduces a .git direcotry that contains me
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area allows for smaller commits.  The working directory may contain multiple logical changes and the staging area allows you to split those into multiple commits by first adding them to the staging area and then commiting the staging area.
+
+How can you use the staging area to make sure you have one commit per logical change?
+See previous answer.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branching is good when you have stable base and want to experiment with new features and changes. Branches help because allows you separate and 
+merge.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams allow for a visual of the git history and relation of commits and branches.
